@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url(../images/resume_photo.jpg) center no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    border-radius: 20px;
+}
+
